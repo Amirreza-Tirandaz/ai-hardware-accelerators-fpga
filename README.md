@@ -10,6 +10,12 @@ The project investigates the design of efficient digital architectures for neura
 
 The goal is to explore the trade-offs between computational performance, model accuracy, hardware resource utilization, and implementation efficiency.
 
+## Research Proposal
+
+📄 **[Read the Full Research Proposal (PDF)](./AI_Hardware_Accelerators_Research_Proposal.pdf)**
+
+The proposal outlines the research objectives, methodology, planned development phases, and evaluation metrics of this project.
+
 ## Research Objectives
 
 - Explore hardware architectures for neural network inference.
