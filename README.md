@@ -12,7 +12,7 @@ The goal is to explore the trade-offs between computational performance, model a
 
 ## Research Proposal
 
-📄 **[Read the Full Research Proposal (PDF)](./AI_Hardware_Accelerators_Research_Proposal.pdf)**
+📄 **[Read the Full Research Proposal (PDF)](./AI_Hardware_Accelerators_Proposal_Revised.pdf)**
 
 The proposal outlines the research objectives, methodology, planned development phases, and evaluation metrics of this project.
 
